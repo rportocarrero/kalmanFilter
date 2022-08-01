@@ -12,7 +12,7 @@ kalmanfilter documentation
 
    info
    installation
-   math_functions
+   modules
    test
 
 Indices and tables

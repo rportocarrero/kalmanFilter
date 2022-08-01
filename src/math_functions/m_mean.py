@@ -1,7 +1,7 @@
 """This file implements the arithmetic mean
 """
 def m_mean(array):
-    """This file implements the arithmetic mean
+    """This function implements the arithmetic mean
 
     :param array: array of elements to find the mean of
     :type array: int, float
@@ -14,3 +14,4 @@ def m_mean(array):
     for i in range(0,array_len):
         array_sum = array_sum + array[i]
     return array_sum/array_len
+    

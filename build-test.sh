@@ -8,7 +8,11 @@ rm logs/*
 pylint src/* > logs/pylint_src.log
 pylint test/* > logs/pylint_test.log
 
+#run all unit tests
+python3 -m unittest -v
+
 #rebuild documentation
 cd docs
 make clean > ../logs/docs_clean.log
 make html > ../logs/docs_make_html.log
+

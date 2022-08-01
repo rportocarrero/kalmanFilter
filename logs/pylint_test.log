@@ -1,30 +1,4 @@
-************* Module test
-test/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-************* Module test.test_mean
-test/test_mean.py:23:0: C0304: Final newline missing (missing-final-newline)
-test/test_mean.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-test/test_mean.py:5:0: C0413: Import "import src.math_functions as module" should be placed at the top of the module (wrong-import-position)
-test/test_mean.py:7:0: C0115: Missing class docstring (missing-class-docstring)
-test/test_mean.py:7:0: C0103: Class name "test_mean_positive" doesn't conform to PascalCase naming style (invalid-name)
-test/test_mean.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
-test/test_mean.py:9:8: C0103: Variable name "A" doesn't conform to snake_case naming style (invalid-name)
-test/test_mean.py:12:4: C0116: Missing function or method docstring (missing-function-docstring)
-test/test_mean.py:13:8: C0103: Variable name "A" doesn't conform to snake_case naming style (invalid-name)
-test/test_mean.py:16:4: C0116: Missing function or method docstring (missing-function-docstring)
-test/test_mean.py:17:8: C0103: Variable name "A" doesn't conform to snake_case naming style (invalid-name)
-************* Module test.test_variance
-test/test_variance.py:22:0: C0304: Final newline missing (missing-final-newline)
-test/test_variance.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-test/test_variance.py:5:0: C0413: Import "import src.math_functions as module" should be placed at the top of the module (wrong-import-position)
-test/test_variance.py:8:0: C0115: Missing class docstring (missing-class-docstring)
-test/test_variance.py:8:0: C0103: Class name "test_variance_positive" doesn't conform to PascalCase naming style (invalid-name)
-test/test_variance.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
-test/test_variance.py:9:4: C0103: Method name "test_5_element_A" doesn't conform to snake_case naming style (invalid-name)
-test/test_variance.py:10:8: C0103: Variable name "A" doesn't conform to snake_case naming style (invalid-name)
-test/test_variance.py:15:4: C0116: Missing function or method docstring (missing-function-docstring)
-test/test_variance.py:15:4: C0103: Method name "test_5_element_B" doesn't conform to snake_case naming style (invalid-name)
-test/test_variance.py:16:8: C0103: Variable name "B" doesn't conform to snake_case naming style (invalid-name)
 
-------------------------------------------------------------------
-Your code has been rated at 3.61/10 (previous run: 3.61/10, +0.00)
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 

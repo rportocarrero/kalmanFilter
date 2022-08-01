@@ -1,12 +1,4 @@
-************* Module math_functions.m_variance
-src/math_functions/m_variance.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-src/math_functions/m_variance.py:2:0: C0116: Missing function or method docstring (missing-function-docstring)
-src/math_functions/m_variance.py:2:15: C0103: Argument name "A" doesn't conform to snake_case naming style (invalid-name)
-src/math_functions/m_variance.py:4:4: W0622: Redefining built-in 'sum' (redefined-builtin)
-src/math_functions/m_variance.py:3:4: C0103: Variable name "N" doesn't conform to snake_case naming style (invalid-name)
-src/math_functions/m_variance.py:7:4: C0103: Variable name "M" doesn't conform to snake_case naming style (invalid-name)
-src/math_functions/m_variance.py:12:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
 
-------------------------------------------------------------------
-Your code has been rated at 6.67/10 (previous run: 6.67/10, +0.00)
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 

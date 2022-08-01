@@ -1,22 +1,24 @@
 Running Sphinx v5.1.1
 making output directory... done
 building [mo]: targets for 0 po files that are out of date
-building [html]: targets for 5 source files that are out of date
-updating environment: [new config] 5 added, 0 changed, 0 removed
-reading sources... [ 20%] index
-reading sources... [ 40%] info
-reading sources... [ 60%] installation
-reading sources... [ 80%] math_functions
+building [html]: targets for 6 source files that are out of date
+updating environment: [new config] 6 added, 0 changed, 0 removed
+reading sources... [ 16%] index
+reading sources... [ 33%] info
+reading sources... [ 50%] installation
+reading sources... [ 66%] math_functions
+reading sources... [ 83%] modules
 reading sources... [100%] test
 
 looking for now-outdated files... none found
 pickling environment... done
 checking consistency... done
 preparing documents... done
-writing output... [ 20%] index
-writing output... [ 40%] info
-writing output... [ 60%] installation
-writing output... [ 80%] math_functions
+writing output... [ 16%] index
+writing output... [ 33%] info
+writing output... [ 50%] installation
+writing output... [ 66%] math_functions
+writing output... [ 83%] modules
 writing output... [100%] test
 
 generating indices... genindex done
