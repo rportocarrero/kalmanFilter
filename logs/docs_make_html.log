@@ -1,0 +1,30 @@
+Running Sphinx v5.1.1
+making output directory... done
+building [mo]: targets for 0 po files that are out of date
+building [html]: targets for 5 source files that are out of date
+updating environment: [new config] 5 added, 0 changed, 0 removed
+reading sources... [ 20%] index
+reading sources... [ 40%] info
+reading sources... [ 60%] installation
+reading sources... [ 80%] math_functions
+reading sources... [100%] test
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 20%] index
+writing output... [ 40%] info
+writing output... [ 60%] installation
+writing output... [ 80%] math_functions
+writing output... [100%] test
+
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 6 warnings.
+
+The HTML pages are in build/html.
