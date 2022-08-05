@@ -1,3 +1,5 @@
 """This file consolodates all of the unit tests into one module
 """
-__all__=["test_mean","test_variance"]
+from.test_mean import *
+from.test_stateupdate import *
+from.test_variance import *

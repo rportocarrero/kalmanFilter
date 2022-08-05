@@ -2,6 +2,11 @@
 """
 def m_variance(array):
     """This function returns the variance of a set of data
+
+    :param array: Array of elements to find the variance of
+    :type arry: int,float
+    :return: the variance of the array
+    :rtype: float
     """
     array_len=len(array)
     array_sum = 0

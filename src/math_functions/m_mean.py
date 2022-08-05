@@ -7,7 +7,7 @@ def m_mean(array):
     :type array: int, float
     :raises Todo: add error description here
     :return: the arithmetic mean of an array of input values
-    :rtype: int,float
+    :rtype: float
     """
     array_len =len(array)
     array_sum = 0

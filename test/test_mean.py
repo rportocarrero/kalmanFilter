@@ -2,10 +2,8 @@
 """
 import unittest
 import sys
-import src.math_functions as module
 sys.path.append("..")
-
-
+import src.math_functions as module
 
 class TestMeanPositive(unittest.TestCase):
     """This class tests the positive case for the mean function

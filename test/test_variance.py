@@ -2,8 +2,9 @@
 """
 import unittest
 import sys
-import src.math_functions as module
 sys.path.append("..")
+import src.math_functions as module
+
 
 class TestVariancePositive(unittest.TestCase):
     """This class tests the postivie path of the variance function"""
