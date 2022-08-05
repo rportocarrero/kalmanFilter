@@ -7,7 +7,15 @@ Submodules
 test.test\_mean module
 ----------------------
 
-.. autoclass:: test.test_mean
+.. automodule:: test.test_mean
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+test.test\_stateupdate module
+-----------------------------
+
+.. automodule:: test.test_stateupdate
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +23,7 @@ test.test\_mean module
 test.test\_variance module
 --------------------------
 
-.. autoclass:: test.test_variance
+.. automodule:: test.test_variance
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +31,7 @@ test.test\_variance module
 Module contents
 ---------------
 
-.. autoclass:: test
+.. automodule:: test
    :members:
    :undoc-members:
    :show-inheritance:

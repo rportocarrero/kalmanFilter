@@ -13,7 +13,6 @@ kalmanfilter documentation
    info
    installation
    modules
-   test
 
 Indices and tables
 ==================

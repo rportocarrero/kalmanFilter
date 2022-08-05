@@ -7,7 +7,7 @@ Submodules
 math\_functions.m\_mean module
 ------------------------------
 
-.. autoclass:: math_functions.m_mean
+.. automodule:: math_functions.m_mean
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,15 @@ math\_functions.m\_mean module
 math\_functions.m\_variance module
 ----------------------------------
 
-.. autoclass:: math_functions.m_variance
+.. automodule:: math_functions.m_variance
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+math\_functions.state\_update module
+------------------------------------
+
+.. automodule:: math_functions.state_update
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +31,7 @@ math\_functions.m\_variance module
 Module contents
 ---------------
 
-.. autoclass:: math_functions
+.. automodule:: math_functions
    :members:
    :undoc-members:
    :show-inheritance:
