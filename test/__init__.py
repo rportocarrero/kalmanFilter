@@ -3,3 +3,4 @@
 from.test_mean import *
 from.test_stateupdate import *
 from.test_variance import *
+from.test_stateextrapolation import *

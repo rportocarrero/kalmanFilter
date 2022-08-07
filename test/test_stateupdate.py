@@ -9,7 +9,7 @@ class TestStaticSystemPostive(unittest.TestCase):
     """Tests the positive path of the 1D kalman filter state update method
     """
     def test_initial_estimate(self):
-        """Tests an initial prediction with kalman gain of 1
+        """initial prediction with kalman gain of 1
         """
         initial = 1000
         measurement = 1030
@@ -17,7 +17,7 @@ class TestStaticSystemPostive(unittest.TestCase):
         self.assertEqual(prediction,1030)
 
     def test_single_iteration(self):
-        """Tests single iteration of the state_update equation
+        """single iteration of the state_update equation
         """
         previous_estimate = 1030
         measurement = 989
@@ -26,7 +26,7 @@ class TestStaticSystemPostive(unittest.TestCase):
         self.assertEqual(prediction,1009.5)
 
     def test_series_estimate(self):
-        """Tests a series of values that represent noisy measurements of a
+        """series of values that represent noisy measurements of a
         static, one-dimensional system.
         """
         initial = 1000
